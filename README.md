@@ -1,4 +1,4 @@
-1. `cd reactjs-intercomponents-communication-studies`
+1. `cd reactjs-recursive-hierarchy`
 
 2. `yarn install`
 
